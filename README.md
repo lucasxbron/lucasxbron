@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Lucas</h1>
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=lucasxbron&title=Experience,Commits,Issues,Followers,PullRequest,Repositories&margin-w=10"><img src="https://github-profile-trophy.vercel.app/?username=lucasxbron" alt="lucasxbron" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasxbron&title=Experience,Commits,Issues,Followers,PullRequest,Repositories&margin-w=10" alt="lucasxbron" /></a> </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=lucasxbron&title=Experience,Commits,Issues,Followers,PullRequest,Repositories&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy) -->
 

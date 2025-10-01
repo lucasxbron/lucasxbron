@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasxbron&title=Experience,Commits,Issues,Followers,PullRequest,Repositories&margin-w=10" alt="lucasxbron" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasxbron&title=Experience,Commits,Issues&margin-w=10" alt="lucasxbron" /></a> </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=lucasxbron&title=Experience,Commits,Issues,Followers,PullRequest,Repositories&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy) -->
 

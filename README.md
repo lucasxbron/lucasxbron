@@ -1,5 +1,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasxbron&title=Experience,Commits,Issues&margin-w=10" alt="lucasxbron" /></a> </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucasxbron&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=lucasxbron&title=Experience,Commits,Issues,Followers,PullRequest,Repositories&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <h3 align="left">Languages and Tools:</h3>

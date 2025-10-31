@@ -1,6 +1,7 @@
 <div align="center">
 
-# Welcome! I'm Lucas
+<!-- # Welcome! I'm Lucas -->
+<img src="assets/lucas_bron_github_banner.png" alt="Lucas Bron Banner" width="100%">
 
 ### Full Stack Developer | Open Source Enthusiast
 

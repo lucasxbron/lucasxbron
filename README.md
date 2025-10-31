@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lucas
+# Welcome! I'm Lucas
 
 ### Full Stack Developer | Open Source Enthusiast
 

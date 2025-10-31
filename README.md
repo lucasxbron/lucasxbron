@@ -59,7 +59,8 @@
 ![SEO](https://img.shields.io/badge/SEO-47A248?style=flat&logo=google&logoColor=white)
 ![Online Marketing](https://img.shields.io/badge/Online_Marketing-FF6B6B?style=flat)
 ![Social Media Marketing](https://img.shields.io/badge/Social_Media_Marketing-1DA1F2?style=flat&logo=twitter&logoColor=white)
-![Email Marketing](https://img.shields.io/badge/Email_Marketing-EA4335?style=flat&logo=gmail&logoColor=white)
+
+<!-- ![Email Marketing](https://img.shields.io/badge/Email_Marketing-EA4335?style=flat&logo=gmail&logoColor=white) -->
 
 ### DevOps & Tools
 

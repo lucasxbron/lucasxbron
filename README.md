@@ -80,10 +80,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-8B5CF6?style=flat&logo=adobe&logoColor=white)
 
-### Methodologies
+<!-- ### Methodologies
 
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white) -->
 
 <!-- ![Waterfall](https://img.shields.io/badge/Waterfall-4285F4?style=flat&logo=googledocs&logoColor=white) -->
 

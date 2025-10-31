@@ -3,7 +3,7 @@
 <!-- # Welcome! I'm Lucas -->
 <img src="assets/lucas_bron_github_banner.png" alt="Lucas Bron Banner" width="100%">
 
-### Full Stack Developer | Open Source Enthusiast
+<!-- ### Full Stack Developer | Open Source Enthusiast -->
 
 <!--
 <p align="center">
@@ -71,7 +71,9 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+
+<!-- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black) -->
+
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
@@ -86,7 +88,8 @@
 
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
-![Waterfall](https://img.shields.io/badge/Waterfall-4285F4?style=flat&logo=googledocs&logoColor=white)
+
+<!-- ![Waterfall](https://img.shields.io/badge/Waterfall-4285F4?style=flat&logo=googledocs&logoColor=white) -->
 
 ---
 
